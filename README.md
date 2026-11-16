@@ -22,7 +22,7 @@ SprintBoard is a portfolio project for planning a small team's sprint. It combin
 | Area | Technologies |
 | --- | --- |
 | Frontend | React 19, Vite 8, CSS |
-| Backend | Java 17, Spring Boot 4.1, Spring Web MVC, Spring Data JPA, Validation |
+| Backend | Java 17, Spring Boot 3.5.6, Spring Web MVC, Spring Data JPA, Validation |
 | Database | H2 |
 | Delivery | GitHub Actions build and Pages deploy workflows |
 
